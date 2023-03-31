@@ -10,3 +10,5 @@
 서혜준 : [논문 요약 정리](https://www.notion.so/5f5be90fd63e4b548f83f76796b93e92?pvs=4)
 서희원 : [논문 요약 정리](https://www.notion.so/94eb80db1fe642bc943daeb462e37361)
 최은서 : [논문 요약 정리](https://www.notion.so/_-d0a41746867a4b438b17ee56170e055b?pvs=4)  
+
+[선행연구분석 발표자료](https://www.notion.so/3-31-914fbaa322ca47fb931f7dd4bffc5988)
