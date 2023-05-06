@@ -14,3 +14,5 @@
 최은서 : [논문 요약 정리](https://www.notion.so/_-d0a41746867a4b438b17ee56170e055b?pvs=4)  
 
 [선행연구분석 발표자료](https://www.notion.so/3-31-914fbaa322ca47fb931f7dd4bffc5988)
+
+서희원 : [requirement list 및 시뮬레이션 계획](https://www.notion.so/d04c4d63469146ab9b2de09cd8092035)
