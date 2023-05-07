@@ -1,5 +1,5 @@
 # evveryday
-다같이 매일 하는 목표 달성
+✨✨ 다같이 매일 하는 목표 달성 ✨✨
 
 ## 진행 일지  
 
@@ -13,6 +13,11 @@
 
 최은서 : [논문 요약 정리](https://www.notion.so/_-d0a41746867a4b438b17ee56170e055b?pvs=4)  
 
-[선행연구분석 발표자료](https://www.notion.so/3-31-914fbaa322ca47fb931f7dd4bffc5988)
+[선행연구분석 발표자료](https://www.notion.so/3-31-914fbaa322ca47fb931f7dd4bffc5988)  
 
-서희원 : [requirement list 및 시뮬레이션 계획](https://www.notion.so/d04c4d63469146ab9b2de09cd8092035)
+---
+### ~5/7 시스템 도식화 및 시뮬레이션(또는 실험) 계획 작성
+
+서희원 : [requirement list 및 시뮬레이션 계획](https://www.notion.so/d04c4d63469146ab9b2de09cd8092035)  
+
+서혜준 : [시스템 도식화](https://suave-lamb-470.notion.site/67a924ead99f4ac284a6f4486ed247c3)
