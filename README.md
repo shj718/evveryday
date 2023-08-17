@@ -23,3 +23,4 @@
 서혜준 : [시스템 도식화](https://suave-lamb-470.notion.site/67a924ead99f4ac284a6f4486ed247c3)
 
 최은서 : [requirement list](https://www.notion.so/82b1c76dcaed4f978fba301f5c99085a)
+
